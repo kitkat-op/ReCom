@@ -1,9 +1,9 @@
 import requests
 import math
 
-MASTER_URL = "http://13.51.237.154:8000"
+MASTER_URL = "http://13.53.170.213:8000"
 
-worker_name = input("Enter worker name: ")
+worker_name = input("Enter worker name:")
 
 
 # ==========================
